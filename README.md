@@ -16,5 +16,4 @@ A fun, straightforward car dodging game built with **C++** — no fancy engines,
 ## 🚀 Build & Run
 
 ```bash
-g++ -o car_game main.cpp
 ./car_game   # or car_game.exe on Windows
